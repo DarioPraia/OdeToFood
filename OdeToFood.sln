@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{4F3813DF-E7C1-4088-A94D-D419E8C263B4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Core", "OdeToFood.Core\OdeToFood.Core.csproj", "{6CB1A6BB-1390-4845-B47A-3BC62F1DFF0B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Data", "OdeToFood.Data\OdeToFood.Data.csproj", "{B943421D-1845-4D41-A12B-01279A2EBE2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{2F49591B-4371-44F9-8021-E839D3568CD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F3813DF-E7C1-4088-A94D-D419E8C263B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F3813DF-E7C1-4088-A94D-D419E8C263B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F3813DF-E7C1-4088-A94D-D419E8C263B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F3813DF-E7C1-4088-A94D-D419E8C263B4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6CB1A6BB-1390-4845-B47A-3BC62F1DFF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6CB1A6BB-1390-4845-B47A-3BC62F1DFF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CB1A6BB-1390-4845-B47A-3BC62F1DFF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{B943421D-1845-4D41-A12B-01279A2EBE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B943421D-1845-4D41-A12B-01279A2EBE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B943421D-1845-4D41-A12B-01279A2EBE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F49591B-4371-44F9-8021-E839D3568CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F49591B-4371-44F9-8021-E839D3568CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F49591B-4371-44F9-8021-E839D3568CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F49591B-4371-44F9-8021-E839D3568CD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
